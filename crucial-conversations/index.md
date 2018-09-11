@@ -1,4 +1,4 @@
-# Crucial Conversation
+# Crucial Conversations
 
 - [Start With Heart](start-with-heart.md)
 - [Refuse The Fools Choice](refuse-the-fools-choice.md)
